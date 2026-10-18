@@ -2,7 +2,35 @@
 
 🎓 **Rutgers University** · B.A. in Computer Science · Class of 2026/2027
 
-I enjoy building software, exploring emerging technologies, and turning ideas into practical applications. I'm especially interested in full-stack development, backend engineering, and AI-powered applications.
+I enjoy building software, exploring emerging technologies, and turning ideas into practical applications. I'm particularly interested in full-stack development, backend engineering, and AI-powered applications.
+
+## 🚀 Featured Projects
+### ⚡ TaskForge
+**SaaS Project Management Platform**
+
+A multi-tenant project management platform with organization workspaces, role-based permissions, and task workflows.
+
+`React` · `TypeScript` · `Node.js` · `Express.js` · `PostgreSQL` · `JWT`
+
+🔗 [View Repository](https://github.com/hilonipatel/TaskForge.git)
+
+### 🔍 RETRACE
+**Incident Replay & Debugging Platform**
+
+A debugging platform that replays HTTP requests, compares expected and actual responses, and tracks test results across multiple runs.
+
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Jest`
+
+🔗 [View Repository](https://github.com/hilonipatel/incident-replay-platform.git)
+
+### ✈️ FlightSystem
+**Online Travel Reservation System**
+
+A flight booking application featuring itinerary search, reservations, waitlists, and role-based administration.
+
+`Java` · `Java` · `Servlets` · `JDBC` · `MySQL` · `Apache` · `Tomcat`
+
+🔗 [View Repository](https://github.com/crrlyly/FlightSystem)
 
 ## 💫 About Me
 - 🎓 Studying Computer Science at Rutgers University
