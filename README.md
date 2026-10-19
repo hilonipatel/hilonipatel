@@ -41,7 +41,7 @@ A flight booking application featuring itinerary search, reservations, waitlists
 - 🌱 Always learning, building, and improving
 
 ## 🌐 Connect With Me
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilonipatel22@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilonipatel22@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiloni-patel/) 
 
 ## 💻 Tech Stack
 🧠 **Languages**
